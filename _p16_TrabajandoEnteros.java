@@ -1,4 +1,4 @@
-// Trabajando con enteros
+// Trabajando con  enteros
 
 public class _p16_TrabajandoEnteros {
     public static void main(String[] args) {

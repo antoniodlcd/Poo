@@ -1,4 +1,4 @@
-// Trabajando con caracteres
+// Trabajando con  caracteres
 public class _p19_TrabajandoCaracteres {
     public static void main(String[] args) {
         Character c1 = 'A', c2 = 'B';

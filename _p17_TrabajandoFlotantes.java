@@ -1,4 +1,4 @@
-//Trabajando con números flotantes
+//Trabajando con números  lotantes
 
 public class _p17_TrabajandoFlotantes {
  public static void main(String[] args) {

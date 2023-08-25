@@ -1,4 +1,4 @@
-// Trabajando con constantes
+// Trabajando con  constantes
 public class _p18_TrabajandoConstantes {
     static final double DESCUENTO = 0.10;
     static final int VELOCIDADLUZ = 30000;
