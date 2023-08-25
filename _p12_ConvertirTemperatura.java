@@ -1,4 +1,4 @@
-// Convierte una temperatura de grados fahrenheit a grados celsius
+// Convierte una  temperatura de grados fahrenheit a grados celsius
 
 import java.util.Scanner;
 

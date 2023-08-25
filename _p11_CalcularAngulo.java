@@ -1,4 +1,4 @@
-// Calcula el 3er ángulo de un triángulo dados los dos primeros ángulos del mismo
+// Calcula el 3er ángulo  de un triángulo dados los dos primeros ángulos del mismo
 
 import java.util.Scanner;
 

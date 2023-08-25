@@ -1,4 +1,4 @@
-// Calcular la hipotenusa de un triángulo rectángulo dadas las longitudes de sus lados
+// Calcular la hipotenusa de  un triángulo rectángulo dadas las longitudes de sus lados
 
 import java.util.Scanner;
 

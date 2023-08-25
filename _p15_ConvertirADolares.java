@@ -1,4 +1,4 @@
-// Calcula el valor equivalente de pesos a dólares
+// Calcula el  valor equivalente de pesos a dólares
 
 import java.util.Scanner;
 

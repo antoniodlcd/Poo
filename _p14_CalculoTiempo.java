@@ -1,4 +1,4 @@
-// Dada una cantidad en horas, calcula su equivalente en días, minutos y segundos
+// Dada una cantidad  en horas, calcula su equivalente en días, minutos y segundos
 
 import java.util.Scanner;
 
