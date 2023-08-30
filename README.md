@@ -36,3 +36,9 @@
 - _p22_VerificarSuma
 - _p23_ConvertirTemperatura
 - _p24_PagaTrabajador
+
+## Actividad 5
+- _p25_EstacionesAño
+- _p26_TipoAngulo
+- _p27_AceptarEstudiante
+- _p28_LeyDeNewton
