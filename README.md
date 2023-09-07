@@ -58,11 +58,16 @@
 - _p38_AceptarEstudianteV2
 
 ## Actividad 7
--
--
--
--
--
+- _p39_Numeros1a100
+    - _p39b_Numeros1a100
+    - _p39c_Numeros1a100
+- _p40_Numeros100a1
+    - _p40b_Numeros100a1
+    - _p40c_Numeros100a1
+- _p41_ProcesaCalificaciones
+- _p42_TablaMultiplicar
+    - _p42b_TablaMultiplicar
+- _p43_ConteoNumeros
 
 ## Actividad 8
 - _p44_ParesAscendente
