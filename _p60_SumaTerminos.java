@@ -27,7 +27,7 @@ public class _p60_SumaTerminos {
                 
                 System.out.printf("1/%d!", i);
                 if (i < num)
-                    System.out.print(" = ");
+                    System.out.print(" + ");
                 else
                     System.out.printf(" = %.5f", suma);
             }
