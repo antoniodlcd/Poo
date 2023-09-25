@@ -120,3 +120,6 @@
 - _p77_MedidasLongitud
 - _p78_SumaMultiplos
 - _p79_Angulo
+
+## Primer Examen Parcial
+- _p80_PrimerExamenParcial
