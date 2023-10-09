@@ -153,3 +153,8 @@
 - _p98_Circulo
 - _p99_Rectangulo
 - _p100_Articulo 
+
+## Práctica 16
+- _p101_TrabajoPersona
+- _p102_AutorLibro
+- _p103_ClienteFactura
