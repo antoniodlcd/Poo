@@ -158,3 +158,7 @@
 - _p101_TrabajoPersona
 - _p102_AutorLibro
 - _p103_ClienteFactura
+
+## Práctica 8
+- _p104_PuntoCirculo
+- _p105_PuntoTriangulo
