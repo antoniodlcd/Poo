@@ -176,3 +176,6 @@
 
 # Activida 19
 - _p111_CuentaBancariaV12
+
+## Práctica 10
+- _p112_ControlVentas
