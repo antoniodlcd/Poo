@@ -205,7 +205,7 @@
 - _p126_Excepcion6
 - _p127_MiExcepcion
 
-# Práctica 12
+## Práctica 12
 - _p128_ExcepcionRaiz
 - _p129_ExcepcionDulces
 - _p130_ExcepcionEdades
@@ -217,3 +217,13 @@
 - _p134_Archivos3
 - _p135_Archivos4
 - _p136_Archivos5
+
+## Práctica 13
+- _p137_ArchivoDeportes
+- _p138_ArchivoMaterias
+- _p139_ArchivoEstudiante
+
+## Actividad 24
+- _p140_HolaMundoGUI
+- _p141_AreaTrianguloGUI
+- _p142_LeyDeNewtonGUI
