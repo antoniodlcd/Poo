@@ -1,5 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
+import java.awt.GridLayout;
+
 import javax.swing.event.*;
 import java.awt.event.*;
 
